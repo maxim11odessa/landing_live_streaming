@@ -4,16 +4,19 @@
   "description": "landing page",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass:watch": "sass --style=expanded --watch styles:dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maxim11odessa/landing_live_streaming.git"
   },
-  "author": "Koniev Maksym",
+  "author": "Maksym K",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/maxim11odessa/landing_live_steraming/issues"
   },
-  "homepage": "https://github.com/maxim11odessa/landing_live_steraming#readme"
+  "homepage": "https://github.com/maxim11odessa/landing_live_steraming#readme",
+  "devDependencies": {
+    "sass": "^1.86.3"
+  }
 }
