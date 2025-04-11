@@ -1,0 +1,19 @@
+{
+  "name": "landing_live_streaming",
+  "version": "1.0.0",
+  "description": "landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxim11odessa/landing_live_streaming.git"
+  },
+  "author": "Koniev Maksym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxim11odessa/landing_live_steraming/issues"
+  },
+  "homepage": "https://github.com/maxim11odessa/landing_live_steraming#readme"
+}
