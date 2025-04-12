@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/maxim11odessa/landing_live_steraming#readme",
   "devDependencies": {
-    "parcel": "^2.14.4",
     "sass": "^1.86.3"
   }
 }
