@@ -167,13 +167,15 @@
                 }
             }
             
-            @media (max-width: v.$media_md) {
+            @media (max-width: v.$media_sm) {
                 height: 450px;
                 background: url(../assets/webp/cactus.webp) 99% 100%/ 220px no-repeat;
 
                 &-title {
                     margin: 0;
+                    @include m.font(35px, 400, v.$color_white);
                 }
+                background: url(../assets/webp/cactus.webp) 99% 100% / 220px no-repeat;
                 
             }
         }
