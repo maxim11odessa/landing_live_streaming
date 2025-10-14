@@ -81,6 +81,8 @@
 
             .hero__title {
                 @include m.font(45px, 700, v.$color_black);
+                width: 100%;
+                height: auto;
             }
 
             .hero__btn {
